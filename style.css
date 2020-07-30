@@ -1,0 +1,68 @@
+body{
+    background-image: url(img/LeeteSitting.JPG);
+    background-color:black;
+    height:500px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#header{
+    background-color: Black;
+    color:white;
+    text-align:center;
+}    
+
+h1{
+    margin:0px;
+
+
+}
+
+#container{
+    background-color: white;
+    opacity: 80%;
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+   
+    
+   
+
+}
+
+#nav{
+    width: 20%;
+    float:left;
+
+
+}
+
+#nav ul {
+    padding: 0;
+}
+
+#main{
+    width: 80%;
+    float: right;
+
+}
+
+#content{
+    padding:10px;
+    
+
+}
+
+#footer{
+    vertical-align: bottom;
+    clear:both;
+    padding:10px;
+    background-color:black;
+    color:white;
+    text-align:right;
+
+
+
+}
